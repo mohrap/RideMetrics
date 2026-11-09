@@ -1,0 +1,7 @@
+{
+  "name": "RideMetrics - Ojol Earnings & Analytics",
+  "description": "AI-powered analytics and earnings optimization platform for Indonesian online motorcycle taxi (ojol) drivers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
